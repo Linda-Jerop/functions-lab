@@ -5,3 +5,7 @@
 // by the function within an if...else statement to output whether the user’s year is a leap
 // year or not.
 
+#include <iostream>
+using namespace std;
+
+bool isLeapYear(int )
