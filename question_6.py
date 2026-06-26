@@ -1,3 +1,4 @@
+# QUESTION 6
 #  Write a Python script defining a user-defined function named analyze numbers that accepts
 #  a list of integers as its only parameter. The function must compute and simultaneously return
 #  two distinct values: the highest number and the lowest number in the list. In your main
